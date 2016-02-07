@@ -1,7 +1,8 @@
-print("hello")
-print("hello from the other side")
-print("I must have called a thousand times")
-print("To tell you I'm sorry for everything that I've done")
-print("But when I call you never seem to be home")
+<<<<<<< HEAD
+print("hello");
+print("hello from the other side");
+print("I must have called a thousand times");
+print("To tell you I'm sorry for everything that I've done");
+print("But when I call you never seem to be home");
 
 
